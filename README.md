@@ -6,4 +6,3 @@
 - ⚛️ [ฟิสิกส์](Physics/README.md)
 - 🧪 [เคมี](Chemistry/README.md)
 - 🧬 [ชีววิทยา](Biology/README.md)
-- 
